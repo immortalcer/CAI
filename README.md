@@ -3,3 +3,5 @@ using a codon table of GCG to counter the CAI of your seqs. 根据GCG Wisconsin 
 无需依赖其他的包。
 need fasta file and condon table file。
 序列结构为fasta结构。
+
+GCG Wisconsin Package形式密码子表可在http://www.kazusa.or.jp/codon/获取。
